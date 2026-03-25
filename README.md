@@ -32,7 +32,7 @@ The dataset includes:
 - Indicates class imbalance in the dataset  
 
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 ### Models Used:
 - Logistic Regression  
